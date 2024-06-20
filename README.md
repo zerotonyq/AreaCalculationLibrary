@@ -1,4 +1,4 @@
-#Запрос SQL
+# Запрос SQL
 
 SELECT 
     p.ProductName, 
